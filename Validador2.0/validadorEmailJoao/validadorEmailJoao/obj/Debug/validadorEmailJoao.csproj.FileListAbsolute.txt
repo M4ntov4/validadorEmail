@@ -1,0 +1,6 @@
+C:\Users\usuario\Documents\appsjoao\validadorEmailJoao\validadorEmailJoao\bin\Debug\validadorEmailJoao.exe.config
+C:\Users\usuario\Documents\appsjoao\validadorEmailJoao\validadorEmailJoao\bin\Debug\validadorEmailJoao.exe
+C:\Users\usuario\Documents\appsjoao\validadorEmailJoao\validadorEmailJoao\bin\Debug\validadorEmailJoao.pdb
+C:\Users\usuario\Documents\appsjoao\validadorEmailJoao\validadorEmailJoao\obj\Debug\validadorEmailJoao.csprojAssemblyReference.cache
+C:\Users\usuario\Documents\appsjoao\validadorEmailJoao\validadorEmailJoao\obj\Debug\validadorEmailJoao.exe
+C:\Users\usuario\Documents\appsjoao\validadorEmailJoao\validadorEmailJoao\obj\Debug\validadorEmailJoao.pdb
